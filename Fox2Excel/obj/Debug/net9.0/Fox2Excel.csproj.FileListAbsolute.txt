@@ -1,0 +1,15 @@
+/Users/mac/RiderProjects/Fox2Excel/Fox2Excel/bin/Debug/net9.0/Fox2Excel
+/Users/mac/RiderProjects/Fox2Excel/Fox2Excel/bin/Debug/net9.0/Fox2Excel.deps.json
+/Users/mac/RiderProjects/Fox2Excel/Fox2Excel/bin/Debug/net9.0/Fox2Excel.runtimeconfig.json
+/Users/mac/RiderProjects/Fox2Excel/Fox2Excel/bin/Debug/net9.0/Fox2Excel.dll
+/Users/mac/RiderProjects/Fox2Excel/Fox2Excel/bin/Debug/net9.0/Fox2Excel.pdb
+/Users/mac/RiderProjects/Fox2Excel/Fox2Excel/obj/Debug/net9.0/Fox2Excel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/Fox2Excel/Fox2Excel/obj/Debug/net9.0/Fox2Excel.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/Fox2Excel/Fox2Excel/obj/Debug/net9.0/Fox2Excel.AssemblyInfo.cs
+/Users/mac/RiderProjects/Fox2Excel/Fox2Excel/obj/Debug/net9.0/Fox2Excel.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Fox2Excel/Fox2Excel/obj/Debug/net9.0/Fox2Excel.sourcelink.json
+/Users/mac/RiderProjects/Fox2Excel/Fox2Excel/obj/Debug/net9.0/Fox2Excel.dll
+/Users/mac/RiderProjects/Fox2Excel/Fox2Excel/obj/Debug/net9.0/refint/Fox2Excel.dll
+/Users/mac/RiderProjects/Fox2Excel/Fox2Excel/obj/Debug/net9.0/Fox2Excel.pdb
+/Users/mac/RiderProjects/Fox2Excel/Fox2Excel/obj/Debug/net9.0/Fox2Excel.genruntimeconfig.cache
+/Users/mac/RiderProjects/Fox2Excel/Fox2Excel/obj/Debug/net9.0/ref/Fox2Excel.dll
